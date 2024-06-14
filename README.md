@@ -40,7 +40,10 @@ After entering all the prompts, an SVG file with the specified name will be crea
 
 ### [Link to Walk Through Video](https://app.screencastify.com/v3/watch/k2uxMqlP3ociF4SAKyI4)
 
-### [Screenshot of Custom SVGs](./lib/assets/Custom_SVGs_Screenshot.png)
+<br>
+<img src="./lib/assets/Custom_SVGs_Screenshot.png" 
+ alt="screenshot of the terminal application" width="800px" height="100%" style=object-position: center;>
+<br>
 
 ## Credits
 
@@ -54,3 +57,4 @@ This project was made possible with the help of:
 ## Tests
 
 To run the tests for Custom SVGs run the following command in the command line: `npm test`
+
